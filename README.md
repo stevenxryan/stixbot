@@ -1,2 +1,2 @@
 # stixbot
-do stuff with six
+do stuff with stix
